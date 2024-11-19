@@ -1,1 +1,1 @@
-# test_uiauto
+# test_uiautomator
